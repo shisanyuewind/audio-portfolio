@@ -1,0 +1,176 @@
+[
+  {
+    "id": "fenghuang_001",
+    "audio_file": "fenghuang_001.wav",
+    "duration": 3.1,
+    "transcript_dialect": "昨天牙噶，我嘎婆在堂屋喊我。",
+    "transcript_mandarin": "昨天晚上，我外婆在堂屋里喊我。",
+    "features": {
+      "lexical": [
+        { "word": "牙噶", "meaning": "昨天晚上" },
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "堂屋", "meaning": "客厅/正厅" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_002",
+    "audio_file": "fenghuang_002.wav",
+    "duration": 2.3,
+    "transcript_dialect": "“港你这个月工资还冒发？”",
+    "transcript_mandarin": "“你说你这个月的工资还没发？”",
+    "features": {
+      "lexical": [
+        { "word": "港", "meaning": "讲、说" },
+        { "word": "冒", "meaning": "没、没有" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_003",
+    "audio_file": "fenghuang_003.wav",
+    "duration": 5.8,
+    "transcript_dialect": "我港：“冒发，果厂子果子搞，月月都拖，烦死人。”",
+    "transcript_mandarin": "我说：“没发，那个厂子那么搞，月月都拖，烦死人了。”",
+    "features": {
+      "lexical": [
+        { "word": "港", "meaning": "讲、说" },
+        { "word": "冒", "meaning": "没、没有" },
+        { "word": "果", "meaning": "那" },
+        { "word": "果子搞", "meaning": "那么搞/那样做" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_004",
+    "audio_file": "fenghuang_004.wav",
+    "duration": 4.5,
+    "transcript_dialect": "嘎婆坐在旁炸火，一边剥橘子一边港。",
+    "transcript_mandarin": "外婆坐在火旁边，一边剥橘子一边说。",
+    "features": {
+      "lexical": [
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "旁炸火", "meaning": "火旁边" },
+        { "word": "港", "meaning": "讲、说" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_005",
+    "audio_file": "fenghuang_005.wav",
+    "duration": 6.8,
+    "transcript_dialect": "“你冒急，慢慢来。你这仔，性子急得很，以后强个做太事？”",
+    "transcript_mandarin": "“你别急，慢慢来。你这孩子，性子太急，以后怎么做大事？”",
+    "features": {
+      "lexical": [
+        { "word": "冒", "meaning": "没、不要" },
+        { "word": "仔", "meaning": "孩子" },
+        { "word": "强个", "meaning": "怎么" },
+        { "word": "太事", "meaning": "大事" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_006",
+    "audio_file": "fenghuang_006.wav",
+    "duration": 6.6,
+    "transcript_dialect": "我笑到港：“嘎婆，你冒晓得，现在物价涨得胎厉害，钱不凑手。”",
+    "transcript_mandarin": "我笑着说：“外婆，你不知道，现在物价涨得特别厉害，钱不够用。”",
+    "features": {
+      "lexical": [
+        { "word": "笑到港", "meaning": "笑着说" },
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "冒", "meaning": "没" },
+        { "word": "胎", "meaning": "很、非常" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_007",
+    "audio_file": "fenghuang_007.wav",
+    "duration": 5.3,
+    "transcript_dialect": "嘎婆站起走到房里，过了一哈，手里拿个塑料袋。",
+    "transcript_mandarin": "外婆站起来走到房里，过了一会儿，手里拿着一个塑料袋。",
+    "features": {
+      "lexical": [
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "一哈", "meaning": "一会儿" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_008",
+    "audio_file": "fenghuang_008.wav",
+    "duration": 6.9,
+    "transcript_dialect": "“呐，果是两千块钱，你先拿当过年，等开年工作稳当了再港。”",
+    "transcript_mandarin": "“来，这是两千块钱，你先拿着过年，等明年工作稳定了再说。”",
+    "features": {
+      "lexical": [
+        { "word": "呐", "meaning": "语气词，喏/来" },
+        { "word": "果", "meaning": "那" },
+        { "word": "当过年", "meaning": "用于过年" },
+        { "word": "港", "meaning": "讲、说" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_009",
+    "audio_file": "fenghuang_009.wav",
+    "duration": 7.6,
+    "transcript_dialect": "我有点想哭，赶紧港：“嘎婆，你存果点钱不容易，我冒能要……”",
+    "transcript_mandarin": "我有点想哭，赶紧说：“外婆，你存这点钱不容易，我不能要……”",
+    "features": {
+      "lexical": [
+        { "word": "港", "meaning": "讲、说" },
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "果点", "meaning": "那点" },
+        { "word": "冒能", "meaning": "不能" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_010",
+    "audio_file": "fenghuang_010.wav",
+    "duration": 7.3,
+    "transcript_dialect": "嘎婆摆手：“你冒跟我讲这些，我是你嘎婆，不帮你帮哪个？”",
+    "transcript_mandarin": "外婆摆摆手：“你别跟我讲这些，我是你外婆，不帮你帮谁？”",
+    "features": {
+      "lexical": [
+        { "word": "嘎婆", "meaning": "外婆" },
+        { "word": "冒", "meaning": "别、不要" },
+        { "word": "哪个", "meaning": "谁" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_011",
+    "audio_file": "fenghuang_011.wav",
+    "duration": 5.7,
+    "transcript_dialect": "“外头雪落得好太，你牙噶就冒回克了，在这弄困俺避。”",
+    "transcript_mandarin": "“外面雪下得很大，你今晚就别回去了，就在这儿睡觉。”",
+    "features": {
+      "lexical": [
+        { "word": "好太", "meaning": "很大" },
+        { "word": "牙噶", "meaning": "昨天晚上" },
+        { "word": "冒回克", "meaning": "别回去" },
+        { "word": "弄", "meaning": "这儿、这里" },
+        { "word": "困俺避", "meaning": "睡觉" }
+      ]
+    }
+  },
+  {
+    "id": "fenghuang_012",
+    "audio_file": "fenghuang_012.wav",
+    "duration": 7.4,
+    "transcript_dialect": "我点了哈脑阔，看给老人家转身回灶房，锅里腊肉炖得香碰香鹏了。",
+    "transcript_mandarin": "我点了点头，看着老人家转身回厨房，锅里腊肉炖得香喷喷的了。",
+    "features": {
+      "lexical": [
+        { "word": "点了哈脑阔", "meaning": "点了点头" },
+        { "word": "给", "meaning": "他" },
+        { "word": "灶房", "meaning": "厨房" },
+        { "word": "香碰香鹏", "meaning": "香喷喷" }
+      ]
+    }
+  }
+]
