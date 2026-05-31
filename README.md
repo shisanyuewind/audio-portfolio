@@ -22,8 +22,8 @@ All files are located in the same directory as this README. Below is the detaile
 | :--- | :--- | :--- |
 | `fenghuang_001.wav` – `fenghuang_012.wav` | Audio | 12 dialect speech samples (Xiangxi Fenghuang dialect, natural conversation) |
 | `fenghuang_annotation.json` | JSON | Structured annotations including dialect transcription, Mandarin translation, and lexical features |
-| `mandarin_sample.wav` | Audio | Mandarin voice sample (standard pronunciation, clean recording) |
-| `english_sample.wav` | Audio | English voice sample (B2 level, clear and natural) |
+| `mandarin_sample.wav` | Audio | Mandarin voice sample  |
+| `english_sample.wav` | Audio | English voice sample  |
 
 ## 🔗 Contact
 - Email: 842316571@qq.com
